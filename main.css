@@ -41,3 +41,15 @@
       font-size: 3vw;
       text-align:left;
   color:white;}
+p{border-top-style: solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;           
+border-width: 1vw;
+border-color: hsla(54, 100%, 74%, 1);
+width:100%;
+    padding-left:2vw;
+    padding-right:1vw;
+    padding-top:1vw;
+    padding-bottom:2vw;
+    width:100%;}
